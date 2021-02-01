@@ -1,0 +1,1 @@
+const maxCosts = 20000;
